@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #fff;
 		font-family: 'Roboto Mono', Roboto-Mono;
-		font-size: 15pt;
+		font-size: 12pt;
 		font-weight: 300 !important;
 		line-height: 1.75em;
 	}
@@ -733,7 +733,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 11pt;
 			}
 
 		/* BG */
@@ -815,7 +815,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 10pt;
 			}
 
 		/* BG */
@@ -901,7 +901,7 @@ input, select, textarea {
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 9pt;
 			}
 
 		/* BG */
