@@ -99,7 +99,8 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #fff;
+		color: //#fff; //black
+		color: #333; // github-grey
 		font-family: 'Roboto Mono', Roboto-Mono;
 		font-size: 12pt;
 		font-weight: 300 !important;
