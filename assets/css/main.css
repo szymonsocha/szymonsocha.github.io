@@ -99,8 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: //#fff; //black
-		color: #333; // github-grey
+		color: #fff;
 		font-family: 'Roboto Mono', Roboto-Mono;
 		font-size: 12pt;
 		font-weight: 300 !important;
@@ -226,7 +225,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: black, url("images/matrix.jpg");
+		background: #333, url("images/matrix.jpg");
 		height: 100%;
 		size: cover;
 	}
