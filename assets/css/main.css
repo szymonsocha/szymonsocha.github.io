@@ -225,7 +225,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #333, url("images/matrix.jpg");
+		background: black, url("images/matrix.jpg");
 		height: 100%;
 		size: cover;
 	}
