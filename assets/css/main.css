@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:300,900");
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,900");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
 @import url("fontawesome-all.min.css");
 
 /*
@@ -102,7 +103,8 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #fff;
 		/*font-family: 'Roboto Mono', Roboto-Mono;*/
-		font-family: 'Merriweather', Merriweather;
+		/*font-family: 'Merriweather', Merriweather;*/
+		font-family: 'EB Garamond', EB Garamond;
 		font-size: 12pt;
 		font-weight: 300 !important;
 		line-height: 1.75em;
